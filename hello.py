@@ -1,5 +1,7 @@
 print("============")
-print("hello, Git!!!!!@@@@@")
+print("Hello, Git!!!!!@@@@@")
 
-print("hi, Git")
+print("Hi, Git")
+
+print("Hello, GitHub")
 print("============")
